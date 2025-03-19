@@ -26,7 +26,7 @@ Este projeto realiza uma Análise Exploratória de Dados aplicada a um conjunto 
 - Power BI para visualização avançada.​
 - Git e GitHub para controle de versão.​
 
-[Clique aqui para acessar o repositório.](https://github.com/Haniel-G/Series01-DA_Financial)
+[Clique aqui para acessar o projeto.](https://github.com/Haniel-G/Series01-DA_Financial)
 
 ## EDA UTILIS 
 O projeto "EDA Utilis" consiste em um módulo Python reutilizável e escalável, projetado para simplificar o processo de Análise Exploratória de Dados (EDA) em diversos domínios. Este toolkit facilita tarefas como carregamento de dados, limpeza, visualização e análise estatística, tornando as fases iniciais de qualquer projeto de ciência de dados mais eficientes e estruturadas.​
