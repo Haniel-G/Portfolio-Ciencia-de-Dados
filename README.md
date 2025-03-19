@@ -50,6 +50,6 @@ O projeto "EDA Utilis" consiste em um módulo Python reutilizável e escalável,
 Atualmente, estou me aprofundando em modelagem e docker. 
 
 ## CONTATOS
-- [LinkedIn](www.linkedin.com/in/hanielgomes)
+- [LinkedIn]([www.linkedin.com/in/hanielgomes](https://www.linkedin.com/in/hanielgomes/))
 - [GitHub](https://github.com/Haniel-G)
 - [Email](fis.haniel@hotmail.com)
