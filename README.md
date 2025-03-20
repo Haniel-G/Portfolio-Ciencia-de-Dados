@@ -1,4 +1,6 @@
 # Portfolio-Ciencia-de-Dados
+![Captura de tela](Capa_do_Portfólio.png)
+
 
 Olá! 
 
