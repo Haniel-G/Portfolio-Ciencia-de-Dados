@@ -1,10 +1,12 @@
 # Portfolio-Ciencia-de-Dados
-![Captura de tela](Capa_do_Portfólio.png)
 
+<a href="https://www.linkedin.com/in/hanielgomes/" target="_blank">
+  <img src="https://img.shields.io/badge/author-hanielgomes-4F8A8B?style=flat&labelColor=F2B872&color=456173&borderRadius=20" alt="Author Badge">
+</a>
 
-Olá! 
+![Captura de tela](Imagens/Capa_do_Portfólio.png)
 
-Eu me chamo *Lucas Haniel Gomes e Gomes*. Sou graduado em licenciatura em Física pela UEPA (2022) e, atualmente, graduando do curso de Ciência de Dados, pela UniAmérica. Além disso, sou um entusiasta de análise de dados (BI, sociais, econômicos e segurança pública). 
+Olá! Eu me chamo *Lucas Haniel Gomes e Gomes*. Sou graduado em licenciatura em Física pela UEPA (2022) e, atualmente, graduando do curso de Ciência de Dados, pela UniAmérica. Além disso, sou um entusiasta de análise de dados (BI, sociais, econômicos e segurança pública). 
 
 ### *Seja bem vindo(a) ao meu portfólio!*
 
