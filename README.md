@@ -7,8 +7,9 @@
 ![Captura de tela](Imagens/Capa_do_Portfólio.png)
 
 Olá! Eu me chamo *Lucas Haniel Gomes e Gomes*. Sou graduado em licenciatura em Física pela UEPA (2022) e, atualmente, graduando do curso de Ciência de Dados, pela UniAmérica. Além disso, sou um entusiasta de análise de dados (BI, sociais, econômicos e segurança pública). 
-
-### *Seja bem vindo(a) ao meu portfólio!*
+<h3 align="center">
+  <em><strong>Seja bem-vindo(a) ao meu portfólio!</strong></em>
+</h3>
 
 ## Projetos
 
